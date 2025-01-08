@@ -7,3 +7,4 @@ Jefrey g
 - Live Server extension for VS Code
 - Git lens for VS Code
 HIi
+  new
